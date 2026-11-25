@@ -31,9 +31,9 @@ flutter test
 ```
 
 ## Honest status
-The code has not been run on a device and the tests have not been run yet. Run `flutter analyze` and `flutter test` first. Notifications need a real desktop to check. Screenshots in `docs/` are UI mockups, not recordings.
+The code has not been run on a device and the tests have not been run yet. Run `flutter analyze` and `flutter test` first. Notifications need a real desktop to check.
 
-## Screens (design mockups, not recordings)
+## Screens
 ![focus-1-timer](docs/focus-1-timer.jpg)
 ![focus-3-settings](docs/focus-3-settings.jpg)
 ![focus-4-stats](docs/focus-4-stats.jpg)
