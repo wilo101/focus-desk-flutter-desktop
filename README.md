@@ -35,4 +35,5 @@ The code has not been run on a device and the tests have not been run yet. Run `
 
 ## Screens (design mockups, not recordings)
 ![focus-1-timer](docs/focus-1-timer.jpg)
-![focus-2-stats](docs/focus-2-stats.jpg)
+![focus-3-settings](docs/focus-3-settings.jpg)
+![focus-4-stats](docs/focus-4-stats.jpg)
